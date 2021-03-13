@@ -18,6 +18,6 @@ INSTALACIÓN
 4. crear archivo .env
 5. php artisan migrate:fresh --seed
 6. php artisan serve
-7. Usuario de prieba : Email : test@test.com
+7. Usuario de prueba : Email : test@test.com
                      : Password : password
 
